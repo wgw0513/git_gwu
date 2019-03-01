@@ -1,0 +1,25 @@
+package com.gwu;
+
+public class Test extends Thread{
+
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+		
+		super.run();
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Test t=new Test();
+		Thread t1=new Thread(t,"t1");
+		Thread t2=new Thread(t,"t2");
+		Thread t3=new Thread(t,"t3");
+		Thread t4=new Thread(t,"t4");
+		Thread t5=new Thread(t,"t5");
+
+	}
+
+}

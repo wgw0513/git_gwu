@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\weixin_guide\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3788276768.index
+4219491360.index
+1859506780.index
+1773805758.index
+67006827.index
+4277457822.index
